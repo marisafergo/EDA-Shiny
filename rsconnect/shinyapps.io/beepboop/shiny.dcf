@@ -1,0 +1,12 @@
+name: shiny
+title: shiny
+username:
+account: beepboop
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 3398005
+bundleId: 3985827
+url: https://beepboop.shinyapps.io/shiny/
+when: 1607929671.67523
+asMultiple: FALSE
+asStatic: FALSE
